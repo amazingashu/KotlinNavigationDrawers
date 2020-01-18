@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/hp" android:title="Home Page" android:icon="@drawable/ic_apps_black_24dp"/>
+    <item android:id="@+id/action" android:title="Actions" android:icon="@drawable/ic_apps_black_24dp"/>
+    <item android:id="@+id/Settings" android:title="Settings" android:icon="@drawable/ic_settings"/>
+    <item android:id="@+id/login" android:title="Login" android:icon="@drawable/ic_login"/>
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_logout"/>
+
+</menu>
